@@ -154,6 +154,7 @@ Concrete options we want to discuss:
 
 ## Metadata
 
+- **Submitted by**: [@seabbs](https://github.com/seabbs)
 - **Conference**: JuliaCon 2026
 - **Format**: Poster (preferred) or short talk (12 + 3 min Q&A)
 - **Track**: General

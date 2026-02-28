@@ -33,6 +33,7 @@ We then summarise our plans to build a composed Julia version of our [epidist](h
 
 ## Metadata
 
+- **Submitted by**: [@seabbs](https://github.com/seabbs)
 - **Conference**: JuliaCon 2026
 - **Format**: Short talk (12 + 3 min Q&A)
 - **Track**: General

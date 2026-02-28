@@ -20,6 +20,6 @@ If you are unsure whether you qualify, open an issue to discuss.
 
 ## Contributing
 
-1. Create a markdown file in `proposals/{conference}-{year}/` with your title, abstract, talk outline, and metadata.
+1. Create a markdown file in `proposals/{conference}-{year}/` with your title, abstract, talk outline, and metadata (including a "Submitted by" field with your GitHub handle).
 2. Open a PR for review before submitting.
 3. Once a talk is accepted, add presentation materials to `presentations/{conference}-{year}/`.
